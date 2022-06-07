@@ -8,6 +8,7 @@ Os notebooks abordam os temas vistos na aula de forma teórica mas desta vez uti
 - [Problemas de transporte](https://github.com/ctruciosm/ACA124/blob/main/Problemas_Transporte.ipynb)
 - [Problema da designação](https://github.com/ctruciosm/ACA124/blob/main/Problema_Designacao.ipynb)
 - [Problema do fluxo máximo](https://github.com/ctruciosm/ACA124/blob/main/Problema_Fluxo_Maximo.ipynb)
+- [Problema do caminho mais curto](https://github.com/ctruciosm/ACA124/blob/main/Problema_Caminho_Mais_Curto.ipynb)
 
 > Espero que este material seja útil para a minha e, quem sabe, futuras turmas.
 
